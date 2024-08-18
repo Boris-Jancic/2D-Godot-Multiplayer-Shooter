@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dld54qw3mao0w"
-path="res://.godot/imported/Main Character - Male - Full spritesheet - No Guide.png-32c6d581bc5e3780b5feab1f54cb23d8.ctex"
+path="res://.godot/imported/Main Character - Male - Full spritesheet - No Guide.png-89def60389abe09fe37876585eec757f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Main Character - Male - Full spritesheet - No Guide.png"
-dest_files=["res://.godot/imported/Main Character - Male - Full spritesheet - No Guide.png-32c6d581bc5e3780b5feab1f54cb23d8.ctex"]
+source_file="res://textures/Main Character - Male - Full spritesheet - No Guide.png"
+dest_files=["res://.godot/imported/Main Character - Male - Full spritesheet - No Guide.png-89def60389abe09fe37876585eec757f.ctex"]
 
 [params]
 
