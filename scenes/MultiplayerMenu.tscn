@@ -1,0 +1,52 @@
+[gd_scene load_steps=2 format=3 uid="uid://wnf30t2m4uyu"]
+
+[ext_resource type="Script" path="res://scripts/MultiplayerControler.gd" id="1_3oxqu"]
+
+[node name="MultiplayerMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_3oxqu")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 0
+offset_left = 501.0
+offset_top = 260.0
+offset_right = 695.0
+offset_bottom = 434.0
+
+[node name="PlayerName" type="LineEdit" parent="Panel"]
+layout_mode = 0
+offset_right = 194.0
+offset_bottom = 50.0
+placeholder_text = "Player name"
+alignment = 1
+
+[node name="Host" type="Button" parent="Panel"]
+layout_mode = 0
+offset_top = 66.0
+offset_right = 194.0
+offset_bottom = 97.0
+text = "Host"
+
+[node name="Join" type="Button" parent="Panel"]
+layout_mode = 0
+offset_top = 100.0
+offset_right = 194.0
+offset_bottom = 131.0
+text = "Join"
+
+[node name="StartGame" type="Button" parent="Panel"]
+layout_mode = 0
+offset_top = 142.0
+offset_right = 194.0
+offset_bottom = 173.0
+text = "Start Game
+"
+
+[connection signal="button_down" from="Panel/Host" to="." method="_on_host_button_down"]
+[connection signal="button_down" from="Panel/Join" to="." method="_on_join_button_down"]
+[connection signal="button_down" from="Panel/StartGame" to="." method="_on_start_game_button_down"]

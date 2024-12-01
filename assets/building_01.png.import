@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bafutdyxnvx12"
-path="res://.godot/imported/Main Character - Male - Full spritesheet - No Guide.png-89def60389abe09fe37876585eec757f.ctex"
+uid="uid://cwxl33xxbtg3r"
+path="res://.godot/imported/building_01.png-4434ed2047a3f88c83b13ca25f2d8efd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://textures/Main Character - Male - Full spritesheet - No Guide.png"
-dest_files=["res://.godot/imported/Main Character - Male - Full spritesheet - No Guide.png-89def60389abe09fe37876585eec757f.ctex"]
+source_file="res://assets/building_01.png"
+dest_files=["res://.godot/imported/building_01.png-4434ed2047a3f88c83b13ca25f2d8efd.ctex"]
 
 [params]
 

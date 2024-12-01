@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cdqdy8u8vqvq8"
-path="res://.godot/imported/icon.svg-3540dd99eafb6c4e602e8c59cee418fa.ctex"
+uid="uid://dld54qw3mao0w"
+path="res://.godot/imported/Main Character - Male - Full spritesheet - No Guide.png-7853133b6448fb9d1b34f9a74c9f7076.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://textures/icon.svg"
-dest_files=["res://.godot/imported/icon.svg-3540dd99eafb6c4e602e8c59cee418fa.ctex"]
+source_file="res://assets/Main Character - Male - Full spritesheet - No Guide.png"
+dest_files=["res://.godot/imported/Main Character - Male - Full spritesheet - No Guide.png-7853133b6448fb9d1b34f9a74c9f7076.ctex"]
 
 [params]
 
@@ -32,6 +32,3 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
-svg/scale=1.0
-editor/scale_with_editor_scale=false
-editor/convert_colors_with_editor_theme=false
